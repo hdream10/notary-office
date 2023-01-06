@@ -1,0 +1,57 @@
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\bin\Debug\kontora.exe.config
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\bin\Debug\kontora.exe
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\bin\Debug\kontora.pdb
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.csproj.AssemblyReference.cache
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.Form1.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.Properties.Resources.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.csproj.GenerateResource.cache
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.csproj.CoreCompileInputs.cache
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.exe
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.pdb
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.EditForms.EditCustomerForm.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.EditForms.EditCustomerServiceForm.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.LoginForm.LoginForm.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.EditForms.EditDealForm.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.AddForms.AddDealStructureForm.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.AddForms.AddDealForm.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.AddForms.AddCustomerServiceForm.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.AddForms.AddCustomerForm.resources
+F:\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.EditForms.EditDealStructureForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\bin\Debug\kontora.exe.config
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\bin\Debug\kontora.exe
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\bin\Debug\kontora.pdb
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.csproj.AssemblyReference.cache
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.AddForms.AddDealStructureForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.AddForms.AddDealForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.AddForms.AddCustomerServiceForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.AddForms.AddCustomerForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.EditForms.EditDealStructureForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.EditForms.EditDealForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.EditForms.EditCustomerServiceForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.EditForms.EditCustomerForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.Form1.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.LoginForm.LoginForm.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.Properties.Resources.resources
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.csproj.GenerateResource.cache
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.csproj.CoreCompileInputs.cache
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.exe
+C:\Users\vladd\Downloads\КУРСАЧ_ГАРАШКИН\КУРСАЧ_ГАРАШКИН\kontora\kontora\obj\Debug\kontora.pdb
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\bin\Debug\kontora.exe.config
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\bin\Debug\kontora.exe
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\bin\Debug\kontora.pdb
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.csproj.AssemblyReference.cache
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.AddForms.AddDealStructureForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.AddForms.AddDealForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.AddForms.AddCustomerServiceForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.AddForms.AddCustomerForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.EditForms.EditDealStructureForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.EditForms.EditDealForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.EditForms.EditCustomerServiceForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.EditForms.EditCustomerForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.Form1.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.LoginForm.LoginForm.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.Properties.Resources.resources
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.csproj.GenerateResource.cache
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.csproj.CoreCompileInputs.cache
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.exe
+C:\Users\vladd\OneDrive\Рабочий стол\КУРСАЧ_БД\КУРСАЧ_БД\kontora\kontora\obj\Debug\kontora.pdb
